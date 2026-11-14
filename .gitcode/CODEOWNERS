@@ -3,7 +3,6 @@
 .gitcode/ @xuanjz
 
 [kernel]
-docs/pre-commit.md @weinw @zichexuelan
 docs/env.md @weinw @zichexuelan
 docs/linux.md @weinw @zichexuelan
 docs/macos.md @weinw @zichexuelan
