@@ -1,10 +1,6 @@
 # 本仓自身也遵循 Conventional Commits + DCO
 # 注意：hook 定义与 .pre-commit-hooks.yaml 必须保持一致（改一处要同步改另一处）
 default_install_hook_types: [commit-msg]
-# 关键：强制复用系统 node，跳过 nodeenv 从 nodejs.org 下载 Node 二进制
-# 注意：Windows 上 nodeenv 不支持 -n system，需改用其他方式
-default_language_version:
-  node: system
 
 repos:
   - repo: local
