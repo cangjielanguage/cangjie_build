@@ -1,34 +1,34 @@
-/ @zhoujing @xuanjz
+/ @zhoujing106 @xuanjz
 
 .gitcode/ @xuanjz
 
 [kernel]
-docs/env.md @weinw @zichexuelan
-docs/linux.md @weinw @zichexuelan
-docs/macos.md @weinw @zichexuelan
-docs/macos_ios.md @weinw @zichexuelan
-docs/macos_android.md @weinw @zichexuelan
-docs/linux_android.md @weinw @zichexuelan
-docs/linux_cross_windows.md @weinw @zichexuelan
-docs/linux_cross_windows_android.md @weinw @zichexuelan
-doc_en/env.md @weinw @zichexuelan
-doc_en/linux.md @weinw @zichexuelan
-doc_en/macos.md @weinw @zichexuelan
-doc_en/macos_ios.md @weinw @zichexuelan
-doc_en/macos_android.md @weinw @zichexuelan
-doc_en/linux_android.md @weinw @zichexuelan
-doc_en/linux_cross_windows.md @weinw @zichexuelan
-doc_en/linux_cross_windows_android.md @weinw @zichexuelan
+docs/env.md @weinw @zichexuelan @zhoujing106
+docs/linux.md @weinw @zichexuelan @zhoujing106
+docs/macos.md @weinw @zichexuelan @zhoujing106
+docs/macos_ios.md @weinw @zichexuelan @zhoujing106
+docs/macos_android.md @weinw @zichexuelan @zhoujing106
+docs/linux_android.md @weinw @zichexuelan @zhoujing106
+docs/linux_cross_windows.md @weinw @zichexuelan @zhoujing106
+docs/linux_cross_windows_android.md @weinw @zichexuelan @zhoujing106
+doc_en/env.md @weinw @zichexuelan @zhoujing106
+doc_en/linux.md @weinw @zichexuelan @zhoujing106
+doc_en/macos.md @weinw @zichexuelan @zhoujing106
+doc_en/macos_ios.md @weinw @zichexuelan @zhoujing106
+doc_en/macos_android.md @weinw @zichexuelan @zhoujing106
+doc_en/linux_android.md @weinw @zichexuelan @zhoujing106
+doc_en/linux_cross_windows.md @weinw @zichexuelan @zhoujing106
+doc_en/linux_cross_windows_android.md @weinw @zichexuelan @zhoujing106
 
 
 [ohos]
-docs/linux_ohos.md @hangofu
-docs/linux_ohos_toolchain.md @hangofu
-docs/linux_cross_ohos.md @hangofu
-docs/linux_cross_windows_ohos.md @hangofu
-docs/macos_ohos.md @hangofu
-doc_en/linux_ohos.md @hangofu
-doc_en/linux_ohos_toolchain.md @hangofu
-doc_en/linux_cross_ohos.md @hangofu
-doc_en/linux_cross_windows_ohos.md @hangofu
-doc_en/macos_ohos.md @hangofu
+docs/linux_ohos.md @hangofu @zhoujing106
+docs/linux_ohos_toolchain.md @hangofu @zhoujing106
+docs/linux_cross_ohos.md @hangofu @zhoujing106
+docs/linux_cross_windows_ohos.md @hangofu @zhoujing106
+docs/macos_ohos.md @hangofu @zhoujing106
+doc_en/linux_ohos.md @hangofu @zhoujing106
+doc_en/linux_ohos_toolchain.md @hangofu @zhoujing106
+doc_en/linux_cross_ohos.md @hangofu @zhoujing106
+doc_en/linux_cross_windows_ohos.md @hangofu @zhoujing106
+doc_en/macos_ohos.md @hangofu @zhoujing106
